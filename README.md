@@ -28,7 +28,7 @@ Each folder contains the Colab notebooks discussed in the corresponding video:
 
 - **[Video 1](#)**
 - **[Video 2](#)**
-- **[Video 3]#)**
+- **[Video 3](#)**
 - **[Video 4](#)**
 
 
