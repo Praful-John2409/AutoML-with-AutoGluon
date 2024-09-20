@@ -11,16 +11,16 @@ This repository contains multiple Jupyter notebooks that showcase different feat
 The explanations of the Colab notebooks are divided into four videos, where I cover the following topics:
 
 1. **Video 1**
-   - Colab Notebook: [Link to Colab]
+   - Colab Notebook: [Link to colab][https://drive.google.com/drive/folders/1qZUAtnmxNw_cMOfzghf48R0Y1TeEg8Tk?usp=drive_link]
 
 2. **Video 2**
-   - Colab Notebook: [Link to Colab]
+   - Colab Notebook: [Link to Colab][https://drive.google.com/drive/folders/1rC5NdBs9vJVFYy-m002vCvRiAnVsAZh6?usp=drive_link]
 
 3. **Video 3**
-   - Colab Notebook: [Link to Colab]
+   - Colab Notebook: [Link to Colab][https://drive.google.com/drive/folders/1SaRUCb8WFWLsrz7GymYF62_2tO1OCRKu?usp=drive_link]
 
 4. **Video 4**
-   - Colab Notebook: [Link to Colab]
+   - Colab Notebook: [Link to Colab][https://drive.google.com/drive/folders/1zQ-JgYz4Yk-0VnCUavbnx5cz57n8ljHS?usp=drive_link]
 
 ## Colab Notebooks
 
