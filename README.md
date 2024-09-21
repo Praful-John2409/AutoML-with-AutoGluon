@@ -26,7 +26,7 @@ The explanations of the Colab notebooks are divided into four videos, where I co
 
 Each folder contains the Colab notebooks discussed in the corresponding video:
 
-- **[Video 1](#)**
+- **[Video 1](https://youtu.be/4bPc51q_v3A?si=k6RKlrWSWuKzYvJt)**
 - **[Video 2](https://youtu.be/Z05fNdP-tXA?si=6leGwScHhBE3pcoh)**
 - **[Video 3](#)**
 - **[Video 4](#)**
