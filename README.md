@@ -6,7 +6,7 @@ Welcome to the **AutoML with AutoGluon** repository! This project is a comprehen
 
 This repository contains multiple Jupyter notebooks that showcase different features and functionalities of AutoGluon, along with video explanations. Each notebook corresponds to a specific topic within AutoGluon, and I have explained the use of various AutoGluon commands and how they interact with data in the videos.
 
-## Video Series
+## Colab series
 
 The explanations of the Colab notebooks are divided into four videos, where I cover the following topics:
 
@@ -22,14 +22,14 @@ The explanations of the Colab notebooks are divided into four videos, where I co
 4. **Video 4**
    - Colab Notebook: [Link to Colab](https://drive.google.com/drive/folders/1zQ-JgYz4Yk-0VnCUavbnx5cz57n8ljHS?usp=drive_link)
 
-## Colab Notebooks
+##  Video Series
 
 Each folder contains the Colab notebooks discussed in the corresponding video:
 
 - **[Video 1](https://youtu.be/4bPc51q_v3A?si=k6RKlrWSWuKzYvJt)**
 - **[Video 2](https://youtu.be/Z05fNdP-tXA?si=6leGwScHhBE3pcoh)**
-- **[Video 3](#)**
-- **[Video 4](#)**
+- **[Video 3](https://youtu.be/Pc1mALbLysU)**
+- **[Video 4](https://youtu.be/eSGnO8F33-w)**
 
 
 ## About AutoGluon
